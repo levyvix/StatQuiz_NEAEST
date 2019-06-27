@@ -18,7 +18,7 @@
         <activity
 
             android:name=".Categories"
-            android:label="@string/title_activity_categories"
+            android:label="@string/category"
             android:theme="@style/AppTheme.NoActionBar"/>
         <activity android:name=".Scoreboard"
             android:label="@string/pontuacoes"
